@@ -1,4 +1,6 @@
 public class Student
 {
-	private Sting name;
+	private String name;
+	private String address;
+
 }
